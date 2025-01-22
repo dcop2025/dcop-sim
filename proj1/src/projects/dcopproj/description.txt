@@ -1,0 +1,9 @@
+This project workspace is for testing dcop algos
+
+
+How to run:
+1. Select the algo to test (DSA, PDSA, MaxSum, PMaxSum)
+2. Click the play button
+
+To change the  test configuration edit the function genTestConfiguration
+
