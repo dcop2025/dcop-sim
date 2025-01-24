@@ -1,5 +1,5 @@
-This project workspace is for testing dcop algos
-
+Workspace for testing DCOP algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 How to run:
 1. Select the algo to test (DSA, PDSA, MaxSum, PMaxSum)
